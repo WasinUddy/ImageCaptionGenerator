@@ -1,5 +1,3 @@
-Apologies for the oversight. Here's an updated version of the README.md file with a more explicit instruction for contributing:
-
 
 # ImageCaptionGenerator
 
