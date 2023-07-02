@@ -33,6 +33,20 @@ To run the application locally using Docker, follow these steps:
 
    This command maps port 5000 of your local machine to port 5000 of the Docker container, allowing you to access the Flask application at `http://localhost:5000/ask`.
 
+
+To run the application without using Docker, follow these steps: ( Highly not recommended installing TensorFlow can be quite tricky)
+1. Install all dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the server
+
+   ```bash
+   python app.py
+   ```
+  
+   
+
 ## Demo Image and Generated Description
 
 ![Demo Image](https://github.com/WasinUddy/ImageCaptionGenerator/blob/main/demo/demo-img.jpg)
