@@ -37,7 +37,7 @@ To run the application locally using Docker, follow these steps:
 
 ## Demo Image and Generated Description
 
-![Demo Image](demo/demo-image.jpg)
+![Demo Image](https://github.com/WasinUddy/ImageCaptionGenerator/blob/main/demo/demo-img.jpg)
 
 Generated Description: mountain biker rides through the forest
 
