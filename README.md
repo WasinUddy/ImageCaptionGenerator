@@ -57,7 +57,7 @@ Generated Description: mountain biker rides through the forest
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project
 
 
 ## License
